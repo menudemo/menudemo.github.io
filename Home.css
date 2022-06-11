@@ -690,6 +690,11 @@
   margin: 14px auto 0;
 }
 
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-list-item-2 {
   background-image: none;
 }
@@ -701,8 +706,8 @@
 .u-section-3 .u-image-2 {
   width: 133px;
   height: 133px;
-  background-image: url("images/tensecond.png");
-  background-position: 0% 50%;
+  background-image: url("images/thechipper.jpg");
+  background-position: 50% 50%;
   margin: 0 auto;
 }
 
@@ -732,6 +737,11 @@
   margin: 14px auto 0;
 }
 
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-list-item-3 {
   background-image: none;
 }
@@ -743,8 +753,8 @@
 .u-section-3 .u-image-3 {
   width: 133px;
   height: 133px;
-  background-image: url("images/landl.png");
-  background-position: 34.76% 50%;
+  background-image: url("images/phanky1.jpg");
+  background-position: 50% 50%;
   margin: 0 auto;
 }
 
@@ -774,6 +784,11 @@
   margin: 14px auto 0;
 }
 
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-list-item-4 {
   background-image: none;
 }
@@ -785,8 +800,8 @@
 .u-section-3 .u-image-4 {
   width: 133px;
   height: 133px;
-  background-image: url("images/bongalbi.png");
-  background-position: 53.35% 50%;
+  background-image: url("images/precieuxnails.jpg");
+  background-position: 50% 50%;
   margin: 0 auto;
 }
 
@@ -814,6 +829,11 @@
 
 .u-section-3 .u-text-15 {
   margin: 14px auto 0;
+}
+
+.u-section-3 .u-btn-4 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
